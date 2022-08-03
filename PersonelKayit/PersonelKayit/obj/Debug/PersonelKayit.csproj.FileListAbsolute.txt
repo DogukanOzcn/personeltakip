@@ -1,0 +1,14 @@
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe.config
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.pdb
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.AssemblyReference.cache
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Properties.Resources.resources
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.GenerateResource.cache
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.pdb
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.frmIstatistik.resources
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.frmAnaForm.resources
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.frmGrafikler.resources
+C:\Users\ozcan\Desktop\özbelsan\PROJELER\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Giris.resources
